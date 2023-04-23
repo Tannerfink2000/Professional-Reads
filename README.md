@@ -1,2 +1,2 @@
 # Professional-Reads
-Creates a professional ReadMe.
+Creates a professional ReadMe using inquirer.
